@@ -1,9 +1,18 @@
 .max-w {
     width: 600px;
+    text-align: center;
     margin-bottom: 20px;
 
+    h3 {
+        text-align: start;
+    }
+
+    p {
+        text-align: start;
+    }
+
     img {
-        width: 566px;
+        height: 377px;
     }
 }
 
